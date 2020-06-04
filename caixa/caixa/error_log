@@ -1,0 +1,965 @@
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:03:30 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:03:48 America/Sao_Paulo] PHP Warning:  include(includes/Functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 2
+[22-May-2019 15:03:48 America/Sao_Paulo] PHP Warning:  include(includes/Functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 2
+[22-May-2019 15:03:48 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/Functions.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 2
+[22-May-2019 15:03:48 America/Sao_Paulo] PHP Warning:  include(includes/notification.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 5
+[22-May-2019 15:03:48 America/Sao_Paulo] PHP Warning:  include(includes/notification.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 5
+[22-May-2019 15:03:48 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/notification.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 5
+[22-May-2019 15:03:48 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 6
+[22-May-2019 15:03:48 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 6
+[22-May-2019 15:06:17 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:06:18 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:06:39 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:06:43 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:37 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:40 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:41 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:42 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:08:43 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 709
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:23 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:24 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:25 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:10:26 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:11:38 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:12:11 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:12:18 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home/petgame/public_html/caixa/listaconsulta.php on line 24
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined index: dataf in /home/petgame/public_html/caixa/listaconsulta.php on line 25
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:12:22 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:12:26 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:12:51 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined index: ponto in /home/petgame/public_html/caixa/listaconsulta.php on line 8
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Warning:  require_once(includes/db2.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:16:22 America/Sao_Paulo] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/db2.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/caixa/listaconsulta.php on line 738
+[22-May-2019 15:22:27 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/petgame/public_html/caixa/index.php on line 39
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:22:29 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:22:31 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  include(includes/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/petgame/public_html/includes/global.php on line 4
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/petgame/public_html/includes/global.php on line 8
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 10
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 11
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 17
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 22
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 26
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 30
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 38
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 41
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 55
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 56
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 72
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/petgame/public_html/includes/global.php on line 73
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 79
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Notice:  Undefined variable: mysqli in /home/petgame/public_html/includes/global.php on line 87
+[22-May-2019 15:24:35 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/petgame/public_html/includes/global.php on line 87

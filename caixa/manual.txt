@@ -1,0 +1,24 @@
+MODO DE USAR
+
+1º entrar no site www.medusas.com.br
+Usuario: medusas
+Senha: 134679
+
+2º clica em em Cadastro e cadastre um novo operador 
+colocar nome do usuario e exibição juntos, tipo marcosaugusto, não pode ser separado marcus augusto e nem acento.
+
+3º entre pelo celular www.medusas.com.br/medusas.apk
+após abaixar instalar no celular
+
+4º abre o aplicativo no celular, no primeiro acesso vai pedir usuario, senha e empresa vc vai colocar:
+usuario:operador que vc criou
+senha: senha do operador q vc criou
+empresa: medusas
+
+para cadastrar ponto e maquina, basta clicar no 3 ponto na lateral direita superior e clicar em MODO ADMIN
+usuario: medusas
+senha: 134679
+
+OBSERVAÇÕES DO PROGRAMA IMPORTANTES ANTES DE CADASTRO DE MAQUINA E PONTOS
+Os nomes tem que ser juntos e sem acento, exempo de ponto: bardojon e não pode ser bar do jon, exemplo de maquina: maquina01 não pode ser maquina 01
+as leituras são por creditos e converte automaticamente em reais após o cadastro da maquina aonde escolhe o valor de moeda da maquina.

@@ -1,0 +1,30 @@
+<?  
+$q->select()
+->from("maincategory2")
+->run();
+$data =  $q->get_selected();
+
+    if(isset($_POST['add']))
+    {
+        
+          
+            $imgfun=new imagecomponent();
+            $title=common::get_control_value("title");
+
+            $descri=common::get_control_value("description");
+            $featureimage=common::get_control_value("icon");
+           
+          if($_FILES['featureimage']['size']>0)
+            {
+                $fimage=$imgfun->upload_image_and_thumbnail('featureimage',120,80,'userfiles','contents',false);
+                $featureimage = $fimage["imagename"];
+            }
+          
+            $q=new Query();
+            $q->insert_into("maincategory2",array("title"=>$title,"description"=>$descri,"icon"=>$featureimage))
+            ->run();
+            common::set_message(3);
+            common::redirect_to(common::get_component_link(array("maincategory2","add")));
+        
+    }
+     ?>
